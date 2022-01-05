@@ -1,0 +1,4 @@
+outs:
+- md5: 9abec1a0d6642c5b3772488483ab00d0
+  size: 1017605
+  path: vocab_to_int.sav

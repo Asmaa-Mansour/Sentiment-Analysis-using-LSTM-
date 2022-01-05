@@ -1,0 +1,4 @@
+outs:
+- md5: 45cf71496c0b95b84c67928b9c4968ba
+  size: 225000
+  path: labels.txt
